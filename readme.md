@@ -1,8 +1,8 @@
-# 05.Carta Tunning
+# 01. Carta HTML
 
 ![Captura del proyecto](./src/Screenshot.png)
 
-Este es la quinta practica realizada en el BootCamp de TheBridge.
+Este es el primer proyecto realizado en TheBridge's Bootcamp, esta carta originalmente estaba escrita solo en HTML, aunque en esta caso está actualizada con CSS para poderlo presentar en el aula. 
 
 ## Objetivo
 
